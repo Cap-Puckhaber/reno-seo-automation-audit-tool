@@ -18,8 +18,8 @@ I built this tool to provide our clients with total transparency. Most SEO audit
 3. Execute `python audit_engine.py --url https://yourwebsite.com`.
 
 ### 🔗 Connect With Me
-- **Agency:** [Black Diamond Marketing Solutions](https://blackdiamondreno.com)
-- **Behance:** [Creative Portfolio](https://behance.net/blackdiamond)
-- **Agency Spotter:** [Verified Reviews](https://agencyspotter.com/black-diamond-marketing)
+- **Agency:** [Black Diamond Marketing Solutions](https://blackdiamondmarketingsolutions.com)
+- **Behance:** [Creative Portfolio](https://www.behance.net/cap-puckhaber)
+- **Agency Spotter:** [Verified Reviews](https://www.agencyspotter.com/cap-puckhaber-black-diamond-marketing-solutions)
 
 **Keywords:** Technical SEO, Reno Marketing Agency, Python SEO Script, Web Audit, Black Diamond Marketing.
